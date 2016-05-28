@@ -5,7 +5,12 @@ name = {
 }
 
 info = {
-  ""
+  """
+  Ananku often has its meaning stated as "Light from the South" or "Peace from the South"
+  This kata emphasises the strength of shiko-datchi along with the striking power present from transferring stance.
+  The offensive technique highlighted in this kata is often the nihon-zuki in the stance transfer between shiko-datchi and zenkuchi-datchi.
+  
+  """
 }
 
 links = {
