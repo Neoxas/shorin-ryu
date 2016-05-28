@@ -5,11 +5,17 @@ name = {
 }
 
 info = {
-  ""
+  """
+  Pinan sandan is often the third kata present in the shorin ryu pinan system.
+  This kata begins to apply techniques that can be used in close quarters, such as empi-uke and uraken.
+  Shikodatchi is introduced in this kata as a way of maintaining a compact stance which can withstand a significant amount of force
+  (note shikodatchi can withstand a weaker force than its brother stance kibadatchi, but it can withstand this in all directions rather than simply straight on).
+  It should be noted that this kata sticks rigidly to the 'I' shape.
+  """
 }
 
 links = {
   [
-    "",
+    "https://www.youtube.com/watch?v=Tt4moUVxNjM",
   ]
 }

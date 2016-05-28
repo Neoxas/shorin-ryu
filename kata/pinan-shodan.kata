@@ -5,11 +5,19 @@ name = {
 }
 
 info = {
-  ""
+  """
+Pinan Shodan is the second kata present in the shorin ryu pinan system.
+This kata, similar to pinan nidan, was intended to be taught to school children.
+This kata incorporates more of the essential blocks and stances in karate, along with a variety of striking techniques such as nukite and kentsui.
+This kata also emphasize the use of nekoashi-dachi, which is often intended as a defensive tool allowing for a quick bodyweight shift.
+An "I" shape is also incorporated into the kata which is deviated from during the second techniques and each of the top lines.
+
+  """
 }
 
 links = {
   [
-    "",
+    "https://www.youtube.com/watch?v=MQOe5o1CEV0",
+    "" ,
   ]
 }

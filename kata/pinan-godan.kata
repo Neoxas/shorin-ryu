@@ -5,11 +5,14 @@ name = {
 }
 
 info = {
-  ""
+  """
+  Pinan godan is often the fifth kata present in the shorin ryu pinan system.
+  Introduces techniques such as kage-zuke along with more advanced techniques such manji-uke.
+  """
 }
 
 links = {
   [
-    "",
+    "https://www.youtube.com/watch?v=s4KMdfiYIi4",
   ]
 }

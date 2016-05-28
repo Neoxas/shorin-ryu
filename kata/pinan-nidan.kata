@@ -5,11 +5,18 @@ name = {
 }
 
 info = {
-  ""
+  """
+  The word "Pinan" comes from ピンアン which is the closest Japanese pronunciation of 平安 when pronounced in Chinese (The Japanese reading of 平安 is of course "heian") which means "peaceful and safe". 
+  This is often a simple kata taught to emphasise the practicality of movements such as oi-zuke and age-uke. 
+  All the katas beginning with Pinan are based on an 'I' pattern. 
+  These were originally intended to be taught to school students as part of a national curriculum.
+  The shorin ryu version differs from other versions with  the use of shikodachi on the age-uke
+  """
 }
 
 links = {
   [
-    "",
+    "https://www.youtube.com/watch?v=xx3yKGbZiK8",
+    "https://www.youtube.com/watch?v=YTRDaNougs8",
   ]
 }

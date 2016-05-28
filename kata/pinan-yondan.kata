@@ -5,11 +5,14 @@ name = {
 }
 
 info = {
-  ""
+  """
+  Pinan yondan is often the fourth kata present in the shorin ryu pinan system.
+  There is a significant focus on 'enhanced' blocks (or strikes) such as moroto-uke.
+  """
 }
 
 links = {
   [
-    "",
+    "https://www.youtube.com/watch?v=B0XY7y_yCgU",
   ]
 }
