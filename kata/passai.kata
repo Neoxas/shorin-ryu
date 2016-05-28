@@ -5,7 +5,15 @@ name = {
 }
 
 info = {
-  ""
+  """
+  Passai is a kata developed to change disadvantage to advantage through the application of strong and fast blocks from a variety of angles.
+  This can be noticed through the switching of technique power and angle throughout the kata.
+  It is rumoured that Passai (or the original founding techniques) are over 400 hundred years based on carbon testing of silk drawings of the form.
+  The founder of the kata was left handed, which helps to highlight potential bunkai applications.
+  
+  """
+  //Has been said to have bunkai against a bo
+  //Suppoidally bears resemblance to Oyadomari no Passai
 }
 
 links = {
